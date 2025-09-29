@@ -11,7 +11,7 @@ Capture live network packets and identify basic protocols and traffic types usin
 - Active Internet Connection
 
 ## 📂 Deliverables
-1. Packet capture file: `.pcap`
+1. Packet capture file: `.pcap`[I have just used my own scan so i Cant share the packets.pcap file.]
 2. Report file: `Wireshark_Report_Template.docx`
 
 ## 🚀 Steps to Reproduce
